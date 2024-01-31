@@ -1,0 +1,16 @@
+1706725850985	geckodriver	INFO	Listening on 127.0.0.1:62856
+1706725851009	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/_m/w40mhjk923557b8g4fbngl5h0000gn/T/rust_mozprofileJqf5Yy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706725851293	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1706725851769	Marionette	INFO	Listening on port 62871
+Read port: 62871
+WebDriver BiDi listening on ws://127.0.0.1:62857
+1706725852228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62857/devtools/browser/9669b15b-9d65-46ce-ba89-d36323c44273
+1706725858743	Marionette	INFO	Stopped listening on port 62871
+JavaScript warning: https://www.finwale.com/assets/js/jquery-3.3.1.min.js, line 2: Script terminated by timeout at:
+i@https://www.finwale.com/assets/js/jquery-3.3.1.min.js:2:86254
+

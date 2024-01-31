@@ -1,0 +1,23 @@
+1706725669766	geckodriver	INFO	Listening on 127.0.0.1:61008
+1706725669783	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/_m/w40mhjk923557b8g4fbngl5h0000gn/T/rust_mozprofilefv8I1I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706725670167	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1706725670512	Marionette	INFO	Listening on port 61024
+WebDriver BiDi listening on ws://127.0.0.1:61009
+Read port: 61024
+1706725670617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61009/devtools/browser/413facf5-acc4-4ef0-b3cd-32fb484aec3e
+1706725700183	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3784: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-8B38PEYC5C, line 484: Script terminated by timeout at:
+aa.wh@https://www.googletagmanager.com/gtag/js?id=G-8B38PEYC5C:484:89
+get@https://www.googletagmanager.com/gtag/js?id=G-8B38PEYC5C:482:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-8B38PEYC5C:482:87
+aa.Ok/c/<@https://www.googletagmanager.com/gtag/js?id=G-8B38PEYC5C:482:412
+
+1706725728033	Marionette	INFO	Stopped listening on port 61024
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
